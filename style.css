@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
 
 body{
-  bacground-color: black;
+  background-color: black;
   color: white;
   font-family: 'Noto Serif KR', serif;
-  padding: 30% 0;
+  padding: 10% 0;
 }
 div.row{
   display: flex;
