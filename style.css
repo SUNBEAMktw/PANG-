@@ -7,7 +7,7 @@ body{
   font-family: 'Noto Serif KR', serif;
   padding: 10% 0;
 }
-::selection { 
+::selection {
   color: black;
   background: rgb(248, 220, 9);
 }
@@ -26,4 +26,24 @@ a:hover{
 a:active{
   text-decoration-line: none;
   color: royalblue;
+}
+div.row {
+  display: flex;
+  height: auto;
+}
+div.left {
+  flex: 1;
+  height: auto;
+}
+div.center {
+  flex: 1;
+  height: auto;
+}
+div.right {
+  flex: 1;
+  height: auto;
+}
+div.end {
+  flex: 1;
+  height: auto;
 }
