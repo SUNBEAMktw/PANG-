@@ -7,22 +7,6 @@ body{
   font-family: 'Noto Serif KR', serif;
   padding: 10% 0;
 }
-div.row{
-  display: flex;
-  height: auto;
-}
-div.left{
-  flex: 1;
-  height: auto;
-}
-div.center{
-  flex: 1;
-  height: auto;
-}
-div.right{
-  flex: 1;
-  height: auto;
-}
 ::selection { 
   color: black;
   background: rgb(248, 220, 9);
